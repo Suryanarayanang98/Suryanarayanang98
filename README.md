@@ -7,6 +7,6 @@ I'm Surya and I'm currently pursuing my Dual Degree in Ocean Engineering and Nav
 
 #### Please Reach me out at :
 
-![LinkedIn](https://www.linkedin.com/in/surya-narayanan-85602b181/)
+LinkedIn : ![Surya Narayanan](https://www.linkedin.com/in/surya-narayanan-85602b181/)
 
 E-Mail : suryanarayanang98@gmail.com  |  na17b107@smail.iitm.ac.in
