@@ -1,5 +1,5 @@
 
-![dad](https://user-images.githubusercontent.com/64247956/89103314-7a14f780-d42e-11ea-8427-6391335475a9.jpg)
+![dad]([https://user-images.githubusercontent.com/64247956/89103314-7a14f780-d42e-11ea-8427-6391335475a9.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.efficiencyai.co.uk%2Fwp-content%2Fuploads%2F2024%2F01%2Faisyn.png&tbnid=x1CMcbeiFfLocM&vet=12ahUKEwjl_t-oj6-EAxXmX2wGHQCdCaIQMygzegUIARDLAQ..i&imgrefurl=https%3A%2F%2Fwww.efficiencyai.co.uk%2Fai-generated-synthetic-data%2F&docid=-QqBRp5tcdSW9M&w=2016&h=576&q=data%20AI%20generated%20picture&ved=2ahUKEwjl_t-oj6-EAxXmX2wGHQCdCaIQMygzegUIARDLAQ))
 
 # Surya Narayanan's Data Science Odyssey: Unveiling Insights, One Line of Code at a Time 🚀
 
